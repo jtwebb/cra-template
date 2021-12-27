@@ -1,0 +1,18 @@
+{
+  "name": "@jtwebb/cra-template",
+  "version": "1.0.1",
+  "keywords": [],
+  "description": "Personal CRA template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jtwebb/create-template-jtwebb.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
